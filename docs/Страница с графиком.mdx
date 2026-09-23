@@ -1,0 +1,14 @@
+
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import { Visualizator } from '../src/components/DoubleCanvas/App';
+
+
+<BrowserOnly fallback={<div>Загрузка компонента...</div>}>
+    {() => <Visualizator />}
+</BrowserOnly>
+
+import  ChartSelector  from '@site/src/components/ChartSelector/ChartSelector';
+
+<BrowserOnly fallback={<div>Загрузка компонента...</div>}>
+    {() => <ChartSelector />}
+</BrowserOnly>

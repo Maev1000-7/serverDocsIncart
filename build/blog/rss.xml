@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://Maev1000-7.github.io/docsWebsite/blog</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Mon, 21 Sep 2026 13:03:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <item>
+            <title><![CDATA[СтраницаБлога]]></title>
+            <link>https://Maev1000-7.github.io/docsWebsite/blog/СтраницаБлога</link>
+            <guid>https://Maev1000-7.github.io/docsWebsite/blog/СтраницаБлога</guid>
+            <pubDate>Mon, 21 Sep 2026 13:03:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

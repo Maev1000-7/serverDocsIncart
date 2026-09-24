@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Maev1000-7.github.io/docsWebsite/blog</id>
+    <title>My Site Blog</title>
+    <updated>2026-09-21T13:03:30.051Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Maev1000-7.github.io/docsWebsite/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[СтраницаБлога]]></title>
+        <id>https://Maev1000-7.github.io/docsWebsite/blog/СтраницаБлога</id>
+        <link href="https://Maev1000-7.github.io/docsWebsite/blog/СтраницаБлога"/>
+        <updated>2026-09-21T13:03:30.051Z</updated>
+    </entry>
+</feed>
